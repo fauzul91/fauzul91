@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fauzul Akbar</h1>
 <h3 align="center">A passionate Data Scientist and Web Developer from Indonesia</h3>
-<img align="right" alt="Coding" width="300" src="https://qit.software/wp-content/uploads/2023/04/image-6.gif.webp">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlibTJ0MzY0bXdkbnJuamsyZzgwZ2l4ZnBzYXU4cGF6eTlsZjNrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 - 🌱 I’m currently learning **Javascript, C#, and Frameworks To Built Website**
 
