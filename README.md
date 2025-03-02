@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fauzul Akbar</h1>
-<h3 align="center">A passionate Data Scientist, Web & Mobile Developer from Indonesia</h3>
+<h3 align="center">A passionate Web & Mobile Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlibTJ0MzY0bXdkbnJuamsyZzgwZ2l4ZnBzYXU4cGF6eTlsZjNrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
-- 🌱 I’m currently learning **Javascript and Frameworks To Built Website**
+- 🌱 I’m currently learning **Javascript, Laravel, and Frameworks To Built Website**
 
 - 📫 How to reach me **linkedin.com/in/rahmatfauzul**
 
